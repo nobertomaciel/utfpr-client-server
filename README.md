@@ -1,4 +1,4 @@
-Sistema de troca de mensagens client-servidor com e sem uso de criptografia.
+Sistema de troca de mensagens cliente-servidor com e sem uso de criptografia.
 
 1. Inicializar o servidor: python Server.py;
 2. Inicializar o cliente em dois terminais: python Client.py;
